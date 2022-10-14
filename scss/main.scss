@@ -1,0 +1,17 @@
+$border-radius: 0.625rem;
+$primary: #BFA5A8;
+$warning: #A09E1A;
+$success: #9BDEAC;
+$info: #FF6384;
+$light: #F7F5DD;
+$secondary: #AFAC99;
+$font-size-base: 0.9rem;
+$enable-negative-margins: true;
+
+
+
+@import "../node_module/bootstrap/scss/bootstrap";
+
+body {
+    background-color: #f9fafb;
+}
